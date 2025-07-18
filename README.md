@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil GitHub!
 
 ## 📊 Estatísticas do GitHub
 
-![Matteus Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteus-souza&show_icons=true&theme=radical)
+![Mateus Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=matteus-souza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteus-souza&layout=compact&theme=radical)
 
 ---

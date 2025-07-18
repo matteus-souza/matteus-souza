@@ -42,7 +42,7 @@ Painel interativo para acompanhamento de progresso em Engenharia de Software.
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mateus-de-souza-331b27129/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:seuemail@email.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:matteus1907@hotemail.com)
 
 ---
 

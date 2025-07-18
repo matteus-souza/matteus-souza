@@ -4,9 +4,7 @@ Bem-vindo ao meu perfil GitHub!
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software há 3 anos
-- 💼 Mais de 9 anos de experiência na área financeira
-- 🔄 Migração para tecnologia, buscando conhecimento e crescimento profissional
+Atualmente, trabalho como Técnico de Implantação na Atak Sistemas, onde contribuo para projetos de implantação e suporte técnico. Estou me graduando em Engenharia de Software na UniCesumar, onde desenvolvo habilidades técnicas que complementam minhas experiências profissionais. Minha trajetória reflete minha dedicação em unir conhecimento técnico e prática para alcançar resultados eficazes.
 
 ---
 

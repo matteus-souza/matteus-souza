@@ -1,4 +1,4 @@
-# Olá, eu sou o Matteus Souza 👋
+# Olá, eu sou o Mateus de Souza 👋
 
 Bem-vindo ao meu perfil GitHub!
 
